@@ -26,6 +26,7 @@ const App = () => {
 
   return (
     <main>
+      <title>StopWatch</title>
       
       <h3>{countdown}</h3>
       <button onClick={start}>Start</button>
